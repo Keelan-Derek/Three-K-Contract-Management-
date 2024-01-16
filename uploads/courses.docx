@@ -1,0 +1,94 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Export HTML to Word Document with JavaScript</title></head><body>
+  <div class="col-sm-12" id="result"><br>
+<b>Warning</b>:  Use of undefined constant host - assumed 'host' (this will throw an Error in a future version of PHP) in <b>C:\xampp\htdocs\CLASS_Follow_Up\includes\dbconnect.php</b> on line <b>8</b><br>
+<br>
+<b>Warning</b>:  Use of undefined constant user - assumed 'user' (this will throw an Error in a future version of PHP) in <b>C:\xampp\htdocs\CLASS_Follow_Up\includes\dbconnect.php</b> on line <b>9</b><br>
+<br>
+<b>Warning</b>:  Use of undefined constant pass - assumed 'pass' (this will throw an Error in a future version of PHP) in <b>C:\xampp\htdocs\CLASS_Follow_Up\includes\dbconnect.php</b> on line <b>10</b><br>
+<br>
+<b>Warning</b>:  Use of undefined constant dbname - assumed 'dbname' (this will throw an Error in a future version of PHP) in <b>C:\xampp\htdocs\CLASS_Follow_Up\includes\dbconnect.php</b> on line <b>11</b><br>
+<br>
+<b>Notice</b>:  Undefined index: request in <b>C:\xampp\htdocs\CLASS_Follow_Up\fetch-course.php</b> on line <b>14</b><br>
+<br>
+<b>Notice</b>:  Undefined index: student_id in <b>C:\xampp\htdocs\CLASS_Follow_Up\fetch-course.php</b> on line <b>44</b><br>
+<br>
+<b>Notice</b>:  Undefined index: student_id in <b>C:\xampp\htdocs\CLASS_Follow_Up\fetch-course.php</b> on line <b>44</b><br>
+<br>
+<b>Notice</b>:  Undefined index: student_id in <b>C:\xampp\htdocs\CLASS_Follow_Up\fetch-course.php</b> on line <b>44</b><br>
+<br>
+<b>Notice</b>:  Undefined index: student_id in <b>C:\xampp\htdocs\CLASS_Follow_Up\fetch-course.php</b> on line <b>44</b><br>
+<br>
+<b>Notice</b>:  Undefined index: student_id in <b>C:\xampp\htdocs\CLASS_Follow_Up\fetch-course.php</b> on line <b>44</b><br>
+<br>
+<b>Notice</b>:  Undefined index: student_id in <b>C:\xampp\htdocs\CLASS_Follow_Up\fetch-course.php</b> on line <b>44</b><br>
+ <div class="table-responsive">
+   <table class="table table-bordered" id="course_table">
+    <tbody><tr>
+        <th>Course ID</th>
+        <th>Course Name</th>
+        <th>Grade</th>
+        <th>Subject</th>
+        <th>Components</th>
+        <th>Number of Tests</th>
+        <th>Command</th>
+    </tr>
+   <tr>
+        <td>23</td>
+        <td>Algebra 1/2</td>
+        <td>8</td>
+        <td>Mathematics</td>
+        <td>11 tests and R&amp;I</td>
+        <td>11</td>
+        <td> <form action="edit.php?id=23" method="post"><input type="submit" class="button edit_data btn btn-primary" id="" value="Edit" name="editcourse"></form></td>
+   </tr>
+  
+   <tr>
+        <td>24</td>
+        <td>Work and Prosperity</td>
+        <td>10</td>
+        <td>Economics</td>
+        <td>7 tests and R&amp;I</td>
+        <td>7</td>
+        <td> <form action="edit.php?id=24" method="post"><input type="submit" class="button edit_data btn btn-primary" id="" value="Edit" name="editcourse"></form></td>
+   </tr>
+  
+   <tr>
+        <td>25</td>
+        <td>Streams of Civilization Volume 1</td>
+        <td>9</td>
+        <td>History</td>
+        <td>17 tests and an R&amp;I</td>
+        <td>17</td>
+        <td> <form action="edit.php?id=25" method="post"><input type="submit" class="button edit_data btn btn-primary" id="" value="Edit" name="editcourse"></form></td>
+   </tr>
+  
+   <tr>
+        <td>27</td>
+        <td>Cultural Geography Part 1</td>
+        <td>9</td>
+        <td>Geography</td>
+        <td>12 tests and an R&amp;I</td>
+        <td>12</td>
+        <td> <form action="edit.php?id=27" method="post"><input type="submit" class="button edit_data btn btn-primary" id="" value="Edit" name="editcourse"></form></td>
+   </tr>
+  
+   <tr>
+        <td>57</td>
+        <td>Business IT Project</td>
+        <td>12</td>
+        <td>Project</td>
+        <td>Project, Proposal, and Presentation</td>
+        <td>3</td>
+        <td> <form action="edit.php?id=57" method="post"><input type="submit" class="button edit_data btn btn-primary" id="" value="Edit" name="editcourse"></form></td>
+   </tr>
+  
+   <tr>
+        <td>987</td>
+        <td>bnethaetrherh</td>
+        <td>10</td>
+        <td>hsrth</td>
+        <td>nbj</td>
+        <td>0</td>
+        <td> <form action="edit.php?id=987" method="post"><input type="submit" class="button edit_data btn btn-primary" id="" value="Edit" name="editcourse"></form></td>
+   </tr>
+  </tbody></table></div></div>
